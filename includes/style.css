@@ -1,0 +1,54 @@
+body {
+  /*font-family: "Amatic SC",Helvetica,Arial,sans-serif;*/
+  background-image:url('website_BGnew.png');
+  background-repeat: repeat;
+  background-size: 50%;
+  background-position: center top;
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+form {
+  margin: 0px;
+}
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-bottom: 1px lightgrey solid;
+}
+
+  .hidden {
+    display: none;
+  }
+  .largefont {
+    font-size: 1.3em;
+  }
+  .centertext {
+    text-align: center;
+  }
+
+  .boldfont {
+        font-weight: bold;
+        font-size: 1.3em;
+  }
+
+  .bigfont {
+        font-size: 1.6em;
+  }
+
+  input {
+    /*font-family: "Amatic SC",Helvetica,Arial,sans-serif;*/
+    border: 1px solid grey;
+    border-radius: 0.5em;
+    margin: 5px;
+    padding: 5px 5px;
+  }
+
+  input.indexform {
+    width: 50%;
+  }
+
+  #stayLoggedIn {
+    height: 1em;
+    width: 1em;
+  }
